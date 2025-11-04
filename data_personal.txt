@@ -2,3 +2,4 @@ Data diri :
 Nama : Muhamad Rusdi
 Email : muhamad.rusdi1311@gmail.com
 gitHub : https://github.com/MRrusdi/Belajar-Laravel-Web-Dev-2
+hobby : sepakbola
